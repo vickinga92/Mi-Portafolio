@@ -1,0 +1,11 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración de editores (VS Code, WebStorm, etc.)
+.vscode/
+.idea/
+
+# Variables de entorno o archivos locales si llegas a usar
+.env
+*.log
