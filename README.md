@@ -2,6 +2,8 @@
 
 Bienvenido a mi repositorio del portafolio profesional. Aquí presento una selección de mis proyectos más destacados en desarrollo web **Full Stack** y **Business Intelligence**, mostrando arquitecturas _Serverless_, integraciones de pagos, rendimiento extremo y dashboards analíticos para la toma de decisiones.
 
+🌐 **Ver Portafolio En Vivo:** [tu-dominio.com](https://vickinga92.github.io/Mi-Portafolio/) _(O el enlace de Cloudflare Pages / Vercel)_
+
 ---
 
 ## 🛠️ Stack Tecnológico
